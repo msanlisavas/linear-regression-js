@@ -12,7 +12,7 @@ var result = linearRegression(xVals,yVals);
 
 The equation of the regression line is y = ax + b
 
-If you want to draw the regression line on chartjs below is an example
+If you want to draw the regression line on chartjs below is an example.
 We need to provide the starting point of the line and the end of the line
 so that chartjs can draw it.
 Both the starting and the end point requires x and y values.
