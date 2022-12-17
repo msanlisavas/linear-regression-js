@@ -1,4 +1,9 @@
 function linearRegression(xVals, yVals) {
+    if(xVals.length != yVals.length)
+    {
+        // Input values should be with the same length
+        return;
+    }
     regression = {
         rSquared: 0,
         yIntercept: 0,
