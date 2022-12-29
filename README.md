@@ -31,11 +31,11 @@ data: {
   datasets:
   [
     {
-      label: 'Your data
+      label: 'Your data',
       data: yourData
     },
     {
-      label: 'Regression Line'
+      label: 'Regression Line',
       data: regressionData
     }
   ]
